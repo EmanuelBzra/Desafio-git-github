@@ -1,2 +1,2 @@
-# Desafio-git-github
-Desafio de git/github proposto pela DIO
+# Desafio Git/Github
+Desafio proposto pela DIO para testar conhecimentos!
